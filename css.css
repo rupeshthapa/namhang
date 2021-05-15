@@ -1,0 +1,51 @@
+.first{
+	background-color: red; 
+	text-align: center;
+	height: 100px;
+	
+}
+.second{
+	clear: both;
+	background-color: brown;
+	float: left;
+	width: 50%;
+	height: 100px;
+}
+.third{
+	background-color: pink;
+	float: right;
+	width: 50%;
+	height: 100px;
+
+}
+#rupesh{
+	clear:both;
+	display: flex;
+	background-color: red;
+}
+.fourth{
+	margin: 10px;
+	background-color: yellow;
+}
+.fifth{
+	margin: 10px;
+	background-color: grey;
+
+}
+.sixth{
+	margin: 10px;
+	background-color: blue;
+}
+.thapa{
+     width: 300px;
+     height: 200px;
+     background-image: url(is.jpg);	
+     background-size: 200%;
+     background-repeat: no-repeat;
+     background-position: center left;
+
+}
+.thapa:hover{
+	background-size: 100%;
+}
+ 
